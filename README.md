@@ -9,32 +9,33 @@
 ## 👩‍💻 About Me
 
 I'm **Shruti Dharne**, a passionate Computer Science Engineering student in my final year at **IIIT Ranchi**.  
-Currently working as a **Full Stack Developer** at **Insturix**, a fintech startup, where I build tools to protect digital content creators from copyright issues and legal risks.
+Currently working as a **Full Stack Developer Intern** at **Insturix**, a startup empowering digital content creators with tools for copyright protection and legal support.
 
 ---
 
 ## 🚀 My Tech Journey
 
 - 🧩 **Competitive Programmer:** Solved **500+ problems** and active across [LeetCode](https://leetcode.com/shrutidharne/), [Codeforces](https://codeforces.com/profile/shrutidharne), [CodeChef](https://www.codechef.com/users/shrutidharne), and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shrutidharne).
-- 🌐 **Full Stack Developer:** Building web applications with modern stacks, always exploring new technologies.
-- 📚 **Lifelong Learner:** Deep-diving into system design, cloud, and software architecture.
+- 🌐 **Full Stack Developer:** Building scalable applications using modern web technologies and clean architecture.
+- 📚 **Lifelong Learner:** Diving deep into system design, cloud infrastructure, and software architecture.
 
 ---
 
 ## 🎓 Education
 
-- **Indian Institute of Information Technology, Ranchi**
-  - **B.Tech** in Computer Science & Engineering
-  - _Expected Graduation: 2026_
+**Indian Institute of Information Technology, Ranchi**  
+🎓 B.Tech in Computer Science & Engineering  
+📅 _Expected Graduation: 2026_  
+📊 CGPA: 9.35
 
 ---
 
 ## 💼 Professional Experience
 
 **Insturix** | _Full Stack Developer Intern_  
-> 🛡️ Building tools for digital content creators  
-> 💻 Developing web applications with a modern tech stack  
-> 🚀 Contributing to product growth and collaborating with cross-functional teams
+> 🛡️ Creating tools to safeguard content creators from copyright and legal issues  
+> 💻 Developing web applications with React, Next.js, Node.js, MongoDB  
+> 🚀 Contributing to product development and collaborating with cross-functional teams  
 
 ---
 
@@ -42,46 +43,62 @@ Currently working as a **Full Stack Developer** at **Insturix**, a fintech start
 
 | Project | Description |
 | ------- | ----------- |
-| [Project 1](#) | Brief description of project 1 |
-| [Project 2](#) | Brief description of project 2 |
-| [Project 3](#) | Brief description of project 3 |
+| [🛒 E-Commerce Platform](https://github.com/shrutidharne/ecommerce-app) | Full-stack fashion eCommerce website with product management, cart, payments, and image uploads |
+| [🚖 Ride Booking App](https://github.com/shrutidharne/ride-booking-app) | Uber-style MERN app with captain and user roles, real-time updates using Socket.io |
+| [🛫 Flight & Tour Booking](https://github.com/shrutidharne/flight-booking-app) | Integrated Amadeus API & Stripe, supports round trips, Umrah deals, admin dashboard |
 
-_Explore more in my [repositories](https://github.com/shrutidharne?tab=repositories)!_
+➡️ _Explore more in my [repositories](https://github.com/shrutidharne?tab=repositories)!_
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack & Tools
 
-![Tech Stack Reference](image1)
+### 🖥️ Languages  
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 
-**Languages:**  
-JavaScript, TypeScript, C++, Python, HTML, CSS
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat-square)
 
-**Frontend:**  
-React.js, Next.js, TypeScript, React Native, Tailwind CSS, Redux
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square)
 
-**Backend:**  
-Node.js, Express.js, MongoDB, MySQL, PostgreSQL, Prisma
-
-**DevOps & Tools:**  
-Google Cloud, AWS, Docker, Git, VS Code, Postman
+### 🛠️ DevOps & Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
 
 ---
 
 ## 🎯 Current Goals & Learning
 
-**Academic Focus:**  
-- Advanced algorithms & data structures  
-- Tech interview preparation  
-- Computer science research
+### 📚 Academic Focus
+- Maintaining excellent CGPA (9.35+)
+- Mastering algorithms and data structures
+- Research in AI and system design
+- Tech interview preparation
 
-**Professional Growth:**  
-- Learning industry best practices  
-- Improving code quality & architecture  
-- Enhancing collaboration skills  
-- Understanding business requirements
+### 💼 Professional Growth
+- Building scalable production-grade apps
+- Enhancing clean code and architectural patterns
+- Collaborating in agile product teams
+- Understanding real-world business needs
 
-**Currently Learning:**  
+### 🌱 Currently Learning  
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![System Design](https://img.shields.io/badge/-System%20Design-blue?style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
