@@ -52,7 +52,7 @@ _Explore more in my [repositories](https://github.com/shrutidharne?tab=repositor
 
 ## 🛠️ Skills
 
-![image1](image1)
+![Tech Stack Reference](image1)
 
 **Languages:**  
 JavaScript, TypeScript, C++, Python, HTML, CSS
