@@ -6,16 +6,10 @@
 
 ---
 
-## 📊 GitHub Analytics
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutidharne&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutidharne&layout=compact&theme=radical)
-
----
-
 ## 👩‍💻 About Me
 
 I'm **Shruti Dharne**, a passionate Computer Science Engineering student in my final year at **IIIT Ranchi**.  
-Currently working as a **Full Stack Developer** at **Insturix**, a  startup, where I build tools to protect digital content creators from copyright issues and legal risks.
+Currently working as a **Full Stack Developer** at **Insturix**, a fintech startup, where I build tools to protect digital content creators from copyright issues and legal risks.
 
 ---
 
@@ -41,14 +35,6 @@ Currently working as a **Full Stack Developer** at **Insturix**, a  startup, whe
 > 🛡️ Building tools for digital content creators  
 > 💻 Developing web applications with a modern tech stack  
 > 🚀 Contributing to product growth and collaborating with cross-functional teams
-
----
-
-## 🏆 Competitive Programming Achievements
-
-- **Snake Animation**: _Top 3.6% Globally_
-- **Rank**: Consistent Performer
-- **Active Competitor**: Regular Contributor
 
 ---
 
@@ -107,14 +93,6 @@ _Explore more in my [repositories](https://github.com/shrutidharne?tab=repositor
 ![System Design](https://img.shields.io/badge/-System%20Design-blue?style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 ![DevOps](https://img.shields.io/badge/-DevOps-green?style=flat-square)
-
----
-
-## 🤝 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/shrutidharne/)
-- [GitHub](https://github.com/shrutidharne)
-- [Email](mailto:shrutidharne@gmail.com)
 
 ---
 
