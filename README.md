@@ -15,7 +15,7 @@
 ## 👩‍💻 About Me
 
 I'm **Shruti Dharne**, a passionate Computer Science Engineering student in my final year at **IIIT Ranchi**.  
-Currently working as a **Full Stack Developer** at **Insturix**, a fintech startup, where I build tools to protect digital content creators from copyright issues and legal risks.
+Currently working as a **Full Stack Developer** at **Insturix**, a  startup, where I build tools to protect digital content creators from copyright issues and legal risks.
 
 ---
 
