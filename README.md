@@ -15,7 +15,7 @@ Currently working as a **Full Stack Developer Intern** at **Insturix**, a startu
 
 ## 🚀 My Tech Journey
 
-- 🧩 **Competitive Programmer:** Solved **500+ problems** and active across [LeetCode](https://leetcode.com/shrutidharne/), [Codeforces](https://codeforces.com/profile/shrutidharne), [CodeChef](https://www.codechef.com/users/shrutidharne), and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shrutidharne).
+- 🧩 **Competitive Programmer:** Solved **500+ problems** and active across [LeetCode], [CodeChef], and [GeeksforGeeks].
 - 🌐 **Full Stack Developer:** Building scalable applications using modern web technologies and clean architecture.
 - 📚 **Lifelong Learner:** Diving deep into system design, cloud infrastructure, and software architecture.
 
@@ -26,7 +26,6 @@ Currently working as a **Full Stack Developer Intern** at **Insturix**, a startu
 **Indian Institute of Information Technology, Ranchi**  
 🎓 B.Tech in Computer Science & Engineering  
 📅 _Expected Graduation: 2026_  
-📊 CGPA: 9.35
 
 ---
 
@@ -82,26 +81,10 @@ Currently working as a **Full Stack Developer Intern** at **Insturix**, a startu
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
 
----
-
-## 🎯 Current Goals & Learning
-
-### 📚 Academic Focus
-- Maintaining excellent CGPA (9.35+)
-- Mastering algorithms and data structures
-- Research in AI and system design
-- Tech interview preparation
-
-### 💼 Professional Growth
-- Building scalable production-grade apps
-- Enhancing clean code and architectural patterns
-- Collaborating in agile product teams
-- Understanding real-world business needs
 
 ### 🌱 Currently Learning  
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![System Design](https://img.shields.io/badge/-System%20Design-blue?style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 ![DevOps](https://img.shields.io/badge/-DevOps-green?style=flat-square)
 
 ---
