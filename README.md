@@ -1,7 +1,4 @@
 # 📊 GitHub Analytics
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&margin-w=15&margin-h=15)
-
 ## 👋 Who Am I?
 I'm Shruti Dharne, a passionate Computer Science Engineering student in my final year at IIIT Ranchi . Currently working as a Full stack Developer at Insturix, a fintech startup where I contribute to building tools to protect content creators from copyright issues and legal risks.
 
@@ -44,39 +41,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 500+
 ---
 ## 🚀 Featured Projects
 
-### 🌟 My Digital Creations
 
-#### 🎯 TaskBridge  
-Project Management Platform
-- Team collaboration and task tracking
-- Progress visualization and reporting
-- User authentication and authorization
-- Responsive design for all devices
-- Real-time notifications
-
-#### 🌾 KrishiSeva  
-Smart Agriculture Platform
-- AI-powered farming recommendations
-- Market price tracking and analysis
-- Farmer-to-consumer marketplace
-- Community knowledge sharing
-- Weather and crop monitoring
-
-#### 🔗 LinkUp  
-Social Media Platform
-- Real-time social interactions
-- Instant messaging system
-- Media sharing capabilities
-- Privacy-focused features
-- Customizable user profiles
-
-#### 💻 More Projects
-Diverse Project Portfolio
-- Web applications with modern frameworks
-- Mobile-responsive designs
-- Backend APIs and databases
-- UI/UX focused interfaces
-- Deployed and production-ready
 
 ---
 
