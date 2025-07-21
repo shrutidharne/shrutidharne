@@ -38,18 +38,6 @@ Currently working as a **Full Stack Developer Intern** at **Insturix**, a startu
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-| ------- | ----------- |
-| [🛒 E-Commerce Platform](https://github.com/shrutidharne/ecommerce-app) | Full-stack fashion eCommerce website with product management, cart, payments, and image uploads |
-| [🚖 Ride Booking App](https://github.com/shrutidharne/ride-booking-app) | Uber-style MERN app with captain and user roles, real-time updates using Socket.io |
-| [🛫 Flight & Tour Booking](https://github.com/shrutidharne/flight-booking-app) | Integrated Amadeus API & Stripe, supports round trips, Umrah deals, admin dashboard |
-
-➡️ _Explore more in my [repositories](https://github.com/shrutidharne?tab=repositories)!_
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### 🖥️ Languages  
