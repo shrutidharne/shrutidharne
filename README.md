@@ -52,11 +52,19 @@ _Explore more in my [repositories](https://github.com/shrutidharne?tab=repositor
 
 ## 🛠️ Skills
 
-**Languages:**  
-Python, C++, HTML, CSS, JavaScript, TypeScript
+![image1](image1)
 
-**Tools & Frameworks:**  
-Node.js, Express.js, MongoDB, MySQL, PostgreSQL, React.js, Next.js, RESTful APIs
+**Languages:**  
+JavaScript, TypeScript, C++, Python, HTML, CSS
+
+**Frontend:**  
+React.js, Next.js, TypeScript, React Native, Tailwind CSS, Redux
+
+**Backend:**  
+Node.js, Express.js, MongoDB, MySQL, PostgreSQL, Prisma
+
+**DevOps & Tools:**  
+Google Cloud, AWS, Docker, Git, VS Code, Postman
 
 ---
 
