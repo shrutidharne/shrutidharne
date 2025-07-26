@@ -15,7 +15,7 @@ Currently working as a **Full Stack Developer Intern** at **Insturix**, a startu
 
 ## 🚀 My Tech Journey
 
-- 🧩 **Competitive Programmer:** Solved **500+ problems** and active across [LeetCode], [CodeChef], and [GeeksforGeeks].
+- 🧩 **Competitive Programmer:** Solved **500+ problems** and active across LeetCode,CodeChef, and GeeksforGeeks.
 - 🌐 **Full Stack Developer:** Building scalable applications using modern web technologies and clean architecture.
 - 📚 **Lifelong Learner:** Diving deep into system design, cloud infrastructure, and software architecture.
 
