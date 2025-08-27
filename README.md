@@ -69,7 +69,13 @@ Currently working as a **Full Stack Developer Intern** at **Insturix**, a startu
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
 
-
+### 🤖 Machine Learning  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
 ### 🌱 Currently Learning  
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![System Design](https://img.shields.io/badge/-System%20Design-blue?style=flat-square)
